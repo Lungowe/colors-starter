@@ -66,10 +66,12 @@ footer {
 
   #column-2 {
     background-color: blueviolet;
+    width: 50%;
   }
 
   #column-3 {
     background-color: brown;
+    width: 50%;
   }
 
   footer {
@@ -85,14 +87,17 @@ footer {
 
   #column-1 {
     background-color: lightslategray;
+    width: 33.33%;
   }
 
   #column-2 {
     background-color: lightseagreen;
+    width: 33.33%;
   }
 
   #column-3 {
     background-color: lightsalmon;
+    width: 33.33%;
   }
 
   footer {
